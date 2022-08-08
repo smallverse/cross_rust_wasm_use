@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cross_rust_wasm": "^0.1.3"
+  }
+}
